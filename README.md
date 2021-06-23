@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alexthecurator
+- 👋 Hi, I’m Alexander Swai
 - 👀 I’m interested in web and software development
 - 🌱 I’m currently learning javascript and python
 - 💞️ I’m looking to collaborate on web and software projects
