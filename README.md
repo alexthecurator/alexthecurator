@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a Full Stack Engineer at SWYE360 Learning, I develop web-based solutions <br>that leverage machine learning to impact education and business through <br>analytics.<br><br>I am passionate about writing clean code and adhering to best software <br>practices, as well as designing system architectures, debugging, and solving <br>algorithms. <br><br>I also enjoy learning new technologies and skills to enhance my performance <br>and deliver value to the customers.
+I am a Full Stack Engineer at SWYE360 Learning, specializing in web-based solutions powered by machine learning for education and business analytics. My expertise spans various tech stacks, including LAMP, MERN, DjNext, and DevOps using Docker, AWS EC2, and Github Actions. Proficient in database management with Azure Studio, MySQL, and Postgres, I prioritize clean code, software best practices, system architecture, debugging, and algorithm-solving. I'm dedicated to continuous learning, aiming to enhance performance and deliver innovative and secure web applications that positively impact the world.
 
 
 ## 🌐 Socials:
