@@ -1,9 +1,9 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQFAG4_qXZEoxA/profile-displaybackgroundimage-shrink_350_1400/0/1685823176021?e=1700697600&v=beta&t=_TxBoKBQm4BuQUVd5U1u6kzXaUax-8eiqziWzi-4EdQ)
-# 📦 Bio:
+# 🗺️ Bio:
 Passionate Full Stack Engineer, in web-based solutions. My expertise spans various tech stacks, including LAMP, MERN, DjNext, and DevOps using Docker, AWS EC2, and Github Actions. Proficient in database management with Azure Studio, MySQL, and Postgres, I prioritize clean code, software best practices, system architecture, debugging, and algorithm-solving. I'm dedicated to continuous learning, aiming to enhance performance and deliver innovative and secure web applications that positively impact the world.
 
 ## 🤩 Hobbies:
-Musician at heart, Movies, Gaming, Basket balling.. (though not frequently 🤣), Exploring new advancements/innovations in tech
+Musician at heart, Movies, Gaming, Basket balling.. though not frequently 🤣, Exploring new advancements/innovations in tech
 
 ## 📲 Let's connect:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alexthecurator) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-cuthbert-swai/) 
