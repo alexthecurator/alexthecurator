@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQFAG4_qXZEoxA/profile-displaybackgroundimage-shrink_350_1400/0/1685823176021?e=1700697600&v=beta&t=_TxBoKBQm4BuQUVd5U1u6kzXaUax-8eiqziWzi-4EdQ)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQFAG4_qXZEoxA/profile-displaybackgroundimage-shrink_350_1400/0/1685823177746?e=1706745600&v=beta&t=rDq4d_Vv6LMQI4ysoDgRR5Fjq4U8HW2ZOXV3_RDqhxU)
 # 🗺️ Bio:
 Passionate Full Stack Engineer, in web-based solutions. My expertise spans various tech stacks, including LAMP, MERN, DjNext, and DevOps using Docker, AWS EC2, and Github Actions. Proficient in database management with Azure Studio, MySQL, and Postgres, I prioritize clean code, software best practices, system architecture, debugging, and algorithm-solving. I'm dedicated to continuous learning, aiming to enhance performance and deliver innovative and secure web applications that positively impact the world.
 
