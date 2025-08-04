@@ -1,7 +1,7 @@
 ![MasterHead](https://images.unsplash.com/photo-1510511459019-5dda7724fd87?q=80&w=5070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ### About:
-Hi, I'm Alexander Cuthbert Swai, a Software Engineer, Founder & CEO of Underscor. I specialize in building ERP solutions, SaaS products, Business Enterprise Systems (BES), and custom digital solutions for various industries. With 5+ years of experience, I have worked with companies like SWYE360 and Atlantic Metals, delivering efficient and scalable software solutions.
+Hi, I'm Alexander Cuthbert Swai, a Software Engineer, Founder & CEO of Underscor. I specialize in building ERP solutions, SaaS products, Business Enterprise Systems (BES), and custom digital solutions for various industries. With 5+ years of experience, I have worked with companies like SWYE360, Shamwaa Logistics and Atlantic Metals, delivering efficient and scalable software solutions.
 
 ### Hobbies:
 Musician at heart, Movies, Gaming, Basket balling.. though not frequently 🤣, Exploring new advancements/innovations in tech
